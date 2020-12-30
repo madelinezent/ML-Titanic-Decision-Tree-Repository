@@ -5,7 +5,7 @@ TCSS 455
 Assignment 1:
 
 RUN DT
-Firs time through, "run all" to see understand my explainaton answer to 2g. Then to change the tree parameters you can go to the 8th cell in the Jupyter Notebook Deline_Zent_A1_Part2. The decision tree must include a max_depth parameter. Ex: DT(test_set, 5, features, 'Survived')
+First time through, "run all" to see understand my explainaton answer to 2g. Then to change the tree parameters you can go to the 8th cell in the Jupyter Notebook Deline_Zent_A1_Part2. The decision tree must include a max_depth parameter. Ex: DT(test_set, 5, features, 'Survived')
 
 Finding Files
 For Part 1, answer files will be located in the output folder.
