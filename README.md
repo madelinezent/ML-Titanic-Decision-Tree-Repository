@@ -11,4 +11,4 @@ Additionally, here are some screenshots of the visual representation my DT produ
 
 ![The Performance Metrics of My DT](example_images/my_DT_metrics.png?raw=true "Title")
 
-![The Performance Metrics of an sklearn Decision Tree on the Same DataSet](example_images/my_DT_metrics.png?raw=true "Title")
+![The Performance Metrics of an sklearn Decision Tree on the Same DataSet](example_images/sklearn_DT_metrics.png?raw=true "Title")
