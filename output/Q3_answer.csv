@@ -1,0 +1,7 @@
+Q3. Using the data for age given in question 2, answer the following: (10 points)
+
+(a) The min-max normalization to transform 35:  0.38596491228070173
+(b) The z-score normalization to transform 35:  0.38926097658709724
+(c) The decimal normalization to transform 35:  0.35 
+
+(d) I think preference really depends on what you are doing to the data. Personally, if I were to graph this data, I want to see the variety of ages in our data set so I'd use min-max normalization to let me see the scale of the age group.
